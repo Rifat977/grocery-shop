@@ -1,2 +1,2 @@
-# laravel-grocery-shop
- Ecommerce grocery shop
+#  Ecommerce grocery shop
+Using PHP laravel
